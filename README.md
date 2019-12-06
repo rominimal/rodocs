@@ -58,7 +58,7 @@ Let's try to keep it clean and strive to upload complete releases \(ideally, wit
 
 ### Happy hours
 
-Every Monday, between 20:00 and 22:00 CEST Happy Hours are taking place. It means that all requested tracks worth you less than usual - just **0.5 chatles**.
+Every Monday, between 20:00 and 22:00 CET Happy Hours are taking place. It means that all requested tracks worth you less than usual - just **0.5 chatles**.
 
 Also one approved [bad metadata](https://romnml.rv7.ru/?badTagged=true) fix brings you **0.33 chatles** instead of 0.1.
 
