@@ -35,7 +35,7 @@ In order to keep community members active, it is necessary to maintain a good ba
 ### Alternative ways of getting chatles
 
 You can propose [bad metadata](https://romnml.rv7.ru/?badTagged=true) fixes in order to earn some chatles.  
-Please read [this manual](http://bit.ly/how-to-fix-metadata) before proposing any changes.  
+Please read [this manual](how-to-fill-in-upload-with-correct-meta-data.md) before proposing any changes.  
 One successfully approved change gives you **0.1 chatles** \(effectively 10 successfull changes give you 1 download at this point\).
 
 ### General rules
