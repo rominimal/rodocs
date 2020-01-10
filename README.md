@@ -90,8 +90,6 @@ You'll love the digging on-the-go!
 **Do not upload transcodes**  
 If you not sure whether your upload is a transcode, [join this group](https://t.me/joinchat/ATDwrFDxDvSammrC82ihrg).
 
-If you prefer audio in a certain format, you can try this converter bot - [@convrt\_bot](https://t.me/convrt_bot)
-
 ## Tutorial videos
 
 [Check out this channel](https://t.me/joinchat/AAAAAFdd1a1IiM9jHyWDsw)
