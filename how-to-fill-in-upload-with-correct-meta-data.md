@@ -12,33 +12,33 @@ Assuming you do know what [roboard](https://romnml.rv7.ru) is.
 
 Once logged in you see the feed of uploads:
 
-[![Picture 1](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/1.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/1.png)
+![](.gitbook/assets/1%20%281%29.png)
 
 Some uploads are marked with `needs info fixing` label. These are our enemy.
 
 If you see one, press the pencil icon on the right from upload name:
 
-[![Picture 2](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/2.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/2.png)
+![](.gitbook/assets/2%20%281%29.png)
 
 That opens metadata editing dialog:
 
-[![Picture 3](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/3.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/3.png)
+![](.gitbook/assets/3.png)
 
 If you know where to take correct information for a given upload – that's great, but if you don't, try the lens icon that opens Google search for the filename:
 
-[![Picture 4](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/4.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/4.png)
+![](.gitbook/assets/4.png)
 
 Okay, this must be our guy:
 
-[![Picture 5](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/5.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/5.png)
+![](.gitbook/assets/5.png)
 
 Beatport is not that handy as Discogs when it comes to metadata copying, but good enough for our case. Right from the first page we already know the artist:
 
-[![Picture 6](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/6.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/6.png)
+![](.gitbook/assets/6.png)
 
 Copying it over to upload metadata:
 
-[![Picture 7](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/7.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/7.png)
+![](.gitbook/assets/7.png)
 
 It is CAPS LOCK? No. This is good. Moving over.
 
@@ -58,17 +58,17 @@ Track title contains VINYL ONLY or \(Original Mix\)? No, this is good. But if it
 
 Track title or artist contains unnecessary symbols like "\_"? No, this is good. But if it does? Then please remove it.
 
-Are we there yet?
+Are we there yet:
 
-[![Picture 8](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/8.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/8.png)
+![](.gitbook/assets/8.png)
 
 No. Album and Cat. \# are empty, but Beatport has this information. Going there and copying it over:
 
-[![Picture 9](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/9.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/9.png)
+![](.gitbook/assets/9.png)
 
-Is it good already? NO! ALBUM SHOULDN'T BE IN CAPS LOCK. It's fine if Cat. \# is.
+Is it good already? NO! ALBUM SHOULDN'T BE IN CAPS LOCK. It's fine if Cat. \# is:
 
-[![Picture 10](https://github.com/rominimal/helpdesk/raw/master/how-to-tag-uploads/10.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-tag-uploads/10.png)
+![](.gitbook/assets/10.png)
 
 Are we there already? Yes, looks like we are.
 

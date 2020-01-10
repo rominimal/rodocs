@@ -14,7 +14,7 @@ Then wait until loading progress bar reaches the end:
 
 After that right click on the icon will open context menu with "Save as..." option:
 
-![](.gitbook/assets/3.png)
+![](.gitbook/assets/3%20%281%29.png)
 
 Alternatively you can use [Telegram Desktop](https://desktop.telegram.org/) app that has dedicated download icon for audio files.
 
