@@ -18,12 +18,12 @@ Speak only English and only when it's needed. [Use chatroom if you feel chatty](
 It is only allowed up to a **10 tracks per bunch**!  
 The only exception is complete releases with more tracks.
 
-When user uploads more than 10 random tracks in a bunch, he get punishment!  
+When user uploads more than 10 random tracks in a bunch, he got punished!  
 2 punishments gives a user 1 month of "vacation".
 
 ### Quality of uploads
 
-When user uploads a [transcodes](https://bit.ly/2qyzphj), stretched files \(traxdb\), irrelevant music \(what's not related to minimal/deep\), he suppose to label it himself to avoid be fined \(possible via [roboard](https://romnml.rv7.ru/)\).
+When user uploads a [transcodes](https://bit.ly/2qyzphj), stretched files \(traxdb\), irrelevant music \(what's not related to minimal/deep\), he suppose to label these files himself to avoid be fined \(possible via [roboard](https://romnml.rv7.ru/)\).
 
 [Here](./#fining-scale) you can find the fining scale. 
 
