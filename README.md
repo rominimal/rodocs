@@ -82,12 +82,6 @@ Users whose balance is under **100 chatles** got fined for **1 chatle** for a tr
 
 We kindly requesting you to share music in 320 kbps MP3, or any lossless format \(WAV/FLAC/AIFF\), 44100 hz or above.
 
-### Please note!
-
-Uploading MP3 of what we have in lossless it is a **ban for 30 days** \(unless what we have in lossless is a rip, and you upload MP3 masters\). Second case – **ban forever**!
-
-Let's try to keep it clean and strive to upload complete releases \(ideally, with the links to the info\). Or just bunches of tracks related to a certain artist.
-
 ## Groups-sattelites
 
 Check the [snippets group](https://t.me/joinchat/ATDwrEYkooRWtBoXRRFp8Q) \(45 second cuts of all the uploads in this group\).  
