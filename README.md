@@ -55,6 +55,10 @@ Every Monday, between [20:00 and 22:00 CET](https://www.google.com/search?q=20%3
 
 Also one approved [bad metadata](https://romnml.rv7.ru/?badTagged=true) fix brings you **0.33 chatles** instead of 0.1.
 
+## File formats
+
+You can turn requested downloads to preferred audio format using [@convrt\_bot](https://t.me/convrt_bot)
+
 ## Alternative ways of getting chatles
 
 You can propose [bad metadata](https://romnml.rv7.ru/?badTagged=true) fixes in order to earn some chatles.  
