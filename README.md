@@ -22,7 +22,7 @@ The only exception is complete releases with more tracks.
 
 When user uploads a [transcodes](https://bit.ly/2qyzphj), stretched files \(traxdb\), irrelevant music \(what's not related to minimal/deep\), he suppose to label it himself to avoid be fined \(possible via [roboard](https://romnml.rv7.ru/)\).
 
-[Here](https://rodocs.rv7.ru/#fining-scale) you can find the fining scale. 
+[Here](./#fining-scale) you can find the fining scale. 
 
 ## Support the group
 
