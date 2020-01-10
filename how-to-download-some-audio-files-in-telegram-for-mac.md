@@ -6,15 +6,15 @@ There is a way to download such.
 
 First, let it start playing:
 
-[![Picture 1](https://github.com/rominimal/helpdesk/raw/master/how-to-download-audio-in-telegram-for-mac/1.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-download-audio-in-telegram-for-mac/1.png)
+![](.gitbook/assets/1.png)
 
 Then wait until loading progress bar reaches the end:
 
-[![Picture 2](https://github.com/rominimal/helpdesk/raw/master/how-to-download-audio-in-telegram-for-mac/2.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-download-audio-in-telegram-for-mac/2.png)
+![](.gitbook/assets/2.png)
 
 After that right click on the icon will open context menu with "Save as..." option:
 
-[![Picture 3](https://github.com/rominimal/helpdesk/raw/master/how-to-download-audio-in-telegram-for-mac/3.png)](https://github.com/rominimal/helpdesk/blob/master/how-to-download-audio-in-telegram-for-mac/3.png)
+![](.gitbook/assets/3.png)
 
 Alternatively you can use [Telegram Desktop](https://desktop.telegram.org/) app that has dedicated download icon for audio files.
 
