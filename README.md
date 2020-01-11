@@ -27,6 +27,10 @@ When user uploads a [transcodes](https://bit.ly/2qyzphj), stretched files \(trax
 
 [Here](./#penalty-scale) you can find the fining scale. 
 
+### Activity in other big groups
+
+Please note that members activity in big sharing groups is not welcome \(it's totally fine if happening in small groups though\). Activity means sharing or requesting music. When spotted a member gets "yellow" card. Second occasion gives user one month ban.
+
 ## Support the group
 
 Group is built on top of advanced system that performs archives extraction, snippets and spectrograms generation, files analysing \(deduplication, audio info extraction, etc\). System is constantly improving. It is based on the servers that aren't free.
