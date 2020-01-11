@@ -25,7 +25,7 @@ When user uploads more than 10 random tracks in a bunch, he got punished!
 
 When user uploads a [transcodes](https://bit.ly/2qyzphj), stretched files \(traxdb\), irrelevant music \(what's not related to minimal/deep\), he suppose to label these files himself to avoid be fined \(possible via [roboard](https://romnml.rv7.ru/)\).
 
-[Here](./#fining-scale) you can find the fining scale. 
+[Here](./#penalty-scale) you can find the fining scale. 
 
 ## Support the group
 
@@ -65,7 +65,7 @@ You can turn requested downloads to preferred audio format using [@convrt\_bot](
 ## Alternative ways of getting chatles
 
 You can propose [bad metadata](https://romnml.rv7.ru/?badTagged=true) fixes in order to earn some chatles.  
-Please read [this manual](how-to-fill-in-upload-with-correct-meta-data.md) before proposing any changes.  
+Please read [this manual](how-to-fill-in-upload-with-correct-meta-data/) before proposing any changes.  
 One successfully approved change gives you **0.1 chatles** \(effectively 10 successfull changes give you 1 download at this point\).
 
 ## General rules
@@ -74,7 +74,7 @@ One successfully approved change gives you **0.1 chatles** \(effectively 10 succ
 
 When one's uploaded music that is irrelevant to Romanian wave of minimal, a transcode, track from DJ mix or DJ mix itself, they might be fined. If you spotted that you accedentially uploaded one of the listed and labeled it in [roboard](https://romnml.rv7.ru/) yourself, you won't be fined.
 
-### Fining scale
+### Penalty scale
 
 Users whose balance is over **500 chatles** got fined for **50 chatles** for a track.  
 Users whose balance is over **100 chatles** got fined for **10 chatles** for a track.  

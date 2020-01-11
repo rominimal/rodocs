@@ -12,33 +12,33 @@ Assuming you do know what [roboard](https://romnml.rv7.ru) is.
 
 Once logged in you see the feed of uploads:
 
-![](.gitbook/assets/1%20%281%29.png)
+![](../.gitbook/assets/1%20%281%29.png)
 
 Some uploads are marked with `needs info fixing` label. These are our enemy.
 
 If you see one, press the pencil icon on the right from upload name:
 
-![](.gitbook/assets/2%20%281%29.png)
+![](../.gitbook/assets/2%20%281%29.png)
 
 That opens metadata editing dialog:
 
-![](.gitbook/assets/3.png)
+![](../.gitbook/assets/3.png)
 
 If you know where to take correct information for a given upload – that's great, but if you don't, try the lens icon that opens Google search for the filename:
 
-![](.gitbook/assets/4.png)
+![](../.gitbook/assets/4.png)
 
 Okay, this must be our guy:
 
-![](.gitbook/assets/5.png)
+![](../.gitbook/assets/5.png)
 
 Beatport is not that handy as Discogs when it comes to metadata copying, but good enough for our case. Right from the first page we already know the artist:
 
-![](.gitbook/assets/6.png)
+![](../.gitbook/assets/6.png)
 
 Copying it over to upload metadata:
 
-![](.gitbook/assets/7.png)
+![](../.gitbook/assets/7.png)
 
 It is CAPS LOCK? No. This is good. Moving over.
 
@@ -60,15 +60,15 @@ Track title or artist contains unnecessary symbols like "\_"? No, this is good. 
 
 Are we there yet:
 
-![](.gitbook/assets/8.png)
+![](../.gitbook/assets/8.png)
 
 No. Album and Cat. \# are empty, but Beatport has this information. Going there and copying it over:
 
-![](.gitbook/assets/9.png)
+![](../.gitbook/assets/9.png)
 
 Is it good already? NO! ALBUM SHOULDN'T BE IN CAPS LOCK. It's fine if Cat. \# is:
 
-![](.gitbook/assets/10.png)
+![](../.gitbook/assets/10.png)
 
 Are we there already? Yes, looks like we are.
 
