@@ -15,13 +15,16 @@ Didn't find it? No problem – just ask in the group.
 
 Speak only English and only when it's needed. [Use chatroom if you feel chatty](https://t.me/romnml).
 
+Violation of general rules, gives user a penalty!  
+2 penalties gives a user 1 month of "vacation".
+
 ### Bunches of tracks
 
 It is only allowed up to a **10 tracks per bunch**!  
 The only exception is complete releases with more tracks.
 
 When user uploads more than 10 random tracks in a bunch, he receives a penalty!  
-2 penalty gives a user 1 month of "vacation".
+2 penalties gives a user 1 month of "vacation".
 
 ### Quality of uploads
 
@@ -84,7 +87,7 @@ One successfully approved change gives you **0.1 chatles** \(effectively 10 succ
 
 When one's uploaded music that is irrelevant to Romanian wave of minimal, a transcode, track from DJ mix or DJ mix itself, they might be fined. If you spotted that you accedentially uploaded one of the listed and labeled it in [roboard](https://romnml.rv7.ru/) yourself, you won't be fined.
 
-### Penalty scale
+### Fining scale
 
 Users whose balance is over **500 chatles** got fined for **50 chatles** for a track.  
 Users whose balance is over **100 chatles** got fined for **10 chatles** for a track.  
