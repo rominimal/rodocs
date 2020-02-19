@@ -87,11 +87,11 @@ These files has premature ending. Might be they wasn't fully downloaded or there
 
 #### transcode
 
-Please study [this article](https://bit.ly/2qyzphj) about bad transcodes. Of course such files are not welcome. If you spotted one – please label it. Transcodes are not participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#fining-scale).
+Please study [this article](https://bit.ly/2qyzphj) about bad transcodes. Of course such files are not welcome. If you spotted one – please label it. Transcodes are not participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
 
 #### stretched
 
-Such uploads might look as regular lossless files by spectrogram, although in fact they were processed with the software that make lossy files look like lossless. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#fining-scale).
+Such uploads might look as regular lossless files by spectrogram, although in fact they were processed with the software that make lossy files look like lossless. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
 
 #### bad vinyl rip
 
@@ -103,7 +103,7 @@ Used for files that due to different circumstances have any bad artefacts or oth
 
 #### irrelevant
 
-Sometimes file that are not relevant to minimal and deep are ending up in the group. Of course while browsing such uploads spoiling the vibe. To "hide" such files this tag is used. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#fining-scale).
+Sometimes file that are not relevant to minimal and deep are ending up in the group. Of course while browsing such uploads spoiling the vibe. To "hide" such files this tag is used. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
 
 #### called off
 
@@ -115,7 +115,7 @@ To mark uploads with poor metadata this tags is used.
 
 #### truncated, dj mix
 
-Used to label files from DJ-mixes \(or complete DJ-mixes\), which are of course not welcomed in the group. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#fining-scale).
+Used to label files from DJ-mixes \(or complete DJ-mixes\), which are of course not welcomed in the group. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
 
 #### mono
 
@@ -123,7 +123,7 @@ Used for manual labeling mono-files. These files aren't participating in chatles
 
 #### very bad
 
-Unexplainable bad files, like noisy, overloaded, you name it. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#fining-scale).
+Unexplainable bad files, like noisy, overloaded, you name it. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
 
 #### abrupt ending
 

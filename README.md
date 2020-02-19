@@ -30,7 +30,7 @@ When user uploads more than 10 random tracks in a bunch, he receives a penalty!
 
 When user uploads a [transcodes](https://bit.ly/2qyzphj), stretched files \(traxdb\), irrelevant music \(what's not related to minimal/deep\), he suppose to label these files himself to avoid be fined \(possible via [roboard](https://romnml.rv7.ru/)\).
 
-[Here](./#penalty-scale) you can find the fining scale. 
+[Here](./#fining-scale) you can find the fining scale. 
 
 ### Bad metadata of uploads
 
