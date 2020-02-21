@@ -95,7 +95,7 @@ Users whose balance is under **100 chatles** got fined for **1 chatle** for a tr
 
 ## Groups-sattelites
 
-Check the [snippets group](https://t.me/joinchat/ATDwrEYkooRWtBoXRRFp8Q) \(45 second cuts of all the uploads in this group\).  
+Check the [snippets group](https://t.me/joinchat/ATDwrEYkooRWtBoXRRFp8Q) \(contains cuts of all the uploads in this group\).  
 You'll love the digging on-the-go!
 
 **Do not upload transcodes**  
