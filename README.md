@@ -38,7 +38,7 @@ When user uploads track named "_Unknown Artist - Unknown Title_", or "_01. Track
 
 ### Activity in big groups
 
-Please note that members activity in big sharing groups is not welcome \(it's totally fine if happening in small groups though\). Activity means sharing or requesting music. When spotted a member gets "yellow" card. Second occasion gives user one month ban.
+Please note that members activity in big sharing groups is not welcome \(it's totally fine if happening in smaller groups though\). Activity means sharing or requesting music. When spotted a member gets "yellow" card. Second occasion gives user a one month ban.
 
 ## Support the group
 
