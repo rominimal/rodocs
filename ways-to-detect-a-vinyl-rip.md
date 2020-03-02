@@ -16,7 +16,7 @@ Most rips will not have an exact bpm, and can be anything \(.98, .76, .08, .32 e
 
 Also pay attention to the grid of the track, master files will have perfectly consistent and accurate BPM whereas some rips may drift and slow down/speed up at times. Rips can also have a fixed/consistent speed, it depends on the ripping set up.
 
-**Spectrogram analysis** \(unreliable\)
+### **Spectrogram analysis** \(unreliable\)
 
 A quick test for determining masters is using the spek program, digital masters/promos usually don't reach the top of the box, leaving some black area above the colouring. 
 
