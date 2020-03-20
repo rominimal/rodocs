@@ -8,5 +8,6 @@
 * [Transcodes & Spectral Analysis](transcodes-and-spectral-analysis/README.md)
   * [Audacity](transcodes-and-spectral-analysis/audacity.md)
   * [Adobe Audition](transcodes-and-spectral-analysis/adobe-audition.md)
+  * [SoX \(Sound eXchange\)](transcodes-and-spectral-analysis/sox-sound-exchange.md)
 * [FAQ](faq.md)
 

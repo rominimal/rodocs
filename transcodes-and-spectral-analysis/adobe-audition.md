@@ -16,7 +16,7 @@ We want the spectrogram to take up as much space as possible, and most of the di
 
 It should now look like this:
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 Click on **View** and click on **Show Editor Panel Controls** to remove it.
 
@@ -24,7 +24,7 @@ Click on **View** and click on **Show Editor Panel Controls** to remove it.
 
 Click on **Window** and click on **Tools** to remove it. Click Windows again and click on **Zoom** to add it.
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 It should now look like this:
 
@@ -34,11 +34,11 @@ Now click and hold down the left mouse button on the tabs for the **Selection/Vi
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 It should now look like this:
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 Move the mouse over the panel borders and click/hold to drag them around to reposition them, like this:
 
@@ -50,7 +50,7 @@ Click on **Window** and click on **Frequency Analysis**.
 
 Click/hold the left mouse button and drag the Frequency Analysis panel onto the same row as the **Editor**, then release it:
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 Then close the Frequency Analysis panel:
 
@@ -58,7 +58,7 @@ Then close the Frequency Analysis panel:
 
 Click on **Edit**, **Preferences** and **Spectral Displays**.
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 Select the following settings:
 
@@ -71,7 +71,7 @@ Select the following settings:
 
 Press **OK**. Drag/drop an audio file onto Audition. You'll probably see something like this:
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 Click on **View** and click on **Show Spectral Frequency Display**. You can toggle between the spectrogram and waveform views with **Ctrl+D**.
 
@@ -83,11 +83,11 @@ You should see something like this:
 
 Click on **View** and **Show HUD** to hide it.
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2864%29.png)
 
 If the spectral view displays a second pair of waveforms above the spectrograms, below the thin waveforms on top, click on and drag the divider up until they're hidden.
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 Right-click the frequency scale on the right side of the screen, and click on **Full Linear** if it is not greyed out \(if it is, just click outside the menu.\) Make sure that **Hertz** is selected rather than **Notes**.
 
@@ -95,7 +95,7 @@ Right-click the frequency scale on the right side of the screen, and click on **
 
 Right-click the time scale above the spectrogram, and click on **Time Display** and on **Decimal \(mm:ss.ddd\)**
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 You should be done setting up Audition. Go ahead and close the file without saving it.
 

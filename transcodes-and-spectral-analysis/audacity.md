@@ -69,7 +69,7 @@ Hopefully you'll get a popup message of "Success - Audacity has successfully det
 
 Otherwise, click **Browse...**, navigate to the folder where you installed **FFmpeg for Audacity**.
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 Select the **avformat-55.dll** file, then click **Open**, and click **OK**.
 

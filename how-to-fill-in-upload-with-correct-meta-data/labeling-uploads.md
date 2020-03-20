@@ -2,7 +2,7 @@
 
 If you have followed the [previous article](./) on how to use [roboard](https://romnml.rv7.ru) to fill-in meta-tags, and thus make them into proper uploads everyone can easily identify and enjoy, now's the time to learn about **labels**.
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 To help you \(and others\) find out about various characteristics on an upload which are not necessarily apparent in the meta-tags or the spectrogram, **labels** are used. Many of them are manually set, but some are _automatically_ appended by the uploading system when processed, if it detects certain things.
 

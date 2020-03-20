@@ -42,7 +42,7 @@ However, you will sometimes see a few lossy artifacts inside a file that is most
 
 #### **21.5 kHz cutoff \(Lossless\)**
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
@@ -56,19 +56,19 @@ However, you will sometimes see a few lossy artifacts inside a file that is most
 
 ![](../.gitbook/assets/image%20%2824%29.png)
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
 #### **Lossy samples, block artifacts & slight shelf \(Lossy samples\)**
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 #### **Data + Noise \(Lossless\)**
 
 ![](../.gitbook/assets/image%20%2849%29.png)
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 ### Lossy Files
 
@@ -112,19 +112,19 @@ See [this](https://wiki.hydrogenaud.io/index.php?title=High-frequency_content_in
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 #### **21 kHz cutoff \(Lossless\)**
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
 #### **Low cutoff with small blocks \(LM\)**  
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
 **Shelves**
 
@@ -150,39 +150,39 @@ Lossy encoders create blocks in the process of saving bits. It is purely a lossy
 
 #### **Looks lossless.. but isn't \(LM\)**
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 #### **Blocks above a low shelf \(LM\)**
 
-![](../.gitbook/assets/image%20%2880%29.png)
-
 ![](../.gitbook/assets/image%20%2881%29.png)
+
+![](../.gitbook/assets/image%20%2882%29.png)
 
 #### **Blocks in a low cutoff \(LM\)**
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
 #### **Transcode with noise \(LM\)**
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 ![](../.gitbook/assets/image%20%2844%29.png)
 
 #### **Very condensed blocking of noise \(MP3 320\)**
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
 #### **A few blocks inside a lossless track \(Lossy samples\)**
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 #### **Cutoff and blocks \(LM\)**
 
@@ -227,7 +227,7 @@ Clipping occurs when the volume of the track reaches the maximum level possible 
 
 #### **Clipping bursts \(LM\)**
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 ![](../.gitbook/assets/image%20%2829%29.png)
 
@@ -249,15 +249,15 @@ Occasionally the harmonics of a file will display weirdly in a spectral. Althoug
 
 #### **A quiet zigzag \(Lossless\)**
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
 #### **Horizontal lines and bursts**
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 **CRT Monitors**
 
@@ -315,7 +315,7 @@ In a spectral, the sample rate determines how high \(with frequency as the Y-axi
 
 When a file is 88.2 kHz, but audio data extends only up to 22 kHz \(44.1 kHz file\), it is a sign that the file is derived from a 44.1 kHz file and upsampled to 88.2 kHz.
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 ### Making Spectrograms
 
