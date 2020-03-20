@@ -1,5 +1,7 @@
 ---
-description: Article is taken from Redacted Wiki
+description: >-
+  Article is taken from Redacted Wiki. Written by puff. Making Spectrograms
+  instructions written by newstarshipsmell.
 ---
 
 # Transcodes & Spectral Analysis
