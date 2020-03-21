@@ -1,14 +1,14 @@
 ---
 description: >-
-  Article is taken from Redacted Wiki. Written by puff. Making Spectrograms
+  Excerpt of the article from one website. Written by puff. Making Spectrograms
   instructions written by newstarshipsmell.
 ---
 
 # Transcodes & Spectral Analysis
 
-Note: For the purpose of this article, lossy master \(LM\) refers to both lossy web and lossy master.
+_Note: For the purpose of this article, lossy master \(LM\) refers to both lossy web and lossy master._
 
-This article attempts to better one's ability at recognizing lossy masters / transcodes. While it contains a lot of information, the ability to quickly distinguish lossy master from legitimate FLAC will only come from experience. This article will not transform a novice into an expert. Ask for help at `The "Is this a transcode?" thread` if you are confused or have doubts about a file's status as lossy or lossless.
+This article attempts to better one's ability at recognizing lossy masters / transcodes. While it contains a lot of information, the ability to quickly distinguish lossy master from legitimate FLAC will only come from experience. This article will not transform a novice into an expert.
 
 Some tools exist to automatically determine whether or not something is legitimate lossless. Two such tools are Audio Identifier and auCDtect. They are useless. Discard all of them. Do not speak of them. Most importantly, **do not trust them.** They are not reliable indicators of quality and are wrong extremely often.
 
@@ -26,13 +26,7 @@ A lossy master is not an officially documented term, but rather a casual way of 
 
 At worst, a lossy master is an officially released bad transcode by an artist, label, or distributor. At best, it is a lossless release with a non-negligible presence of lossy samples / lossy artifacts. The "lossiness" of a track can lie on a spectrum, but most of the time one will be able to determine whether or not a track is proper lossless, lossless with lossy samples, or a lossy master.
 
-Proper lossless and lossless with lossy samples can be uploaded without a lossy master approval request. Lossy masters should always be reported for lossy master approval, and perhaps, depending on the quality, not be uploaded. Redacted has set a moderation precedent where files of poor quality, when sourced from an official distributor, can receive on-site approval. However, this does not mean that one should take advantage of this; albums transcoded from low-bitrate MP3s do not meet the quality standards embodied by Redacted, and the uploader should decide whether or not the files are worth uploading given their lossy nature.
-
 Lossy masters can range from some artifacts in a FLAC file to a full-blown transcode. Some are, for the most part, lossless, while others are purely bad transcodes. When there is only very slight artifacting in the file \(e.g. several blocks here and there\) and the audio data is clearly lossless and extends for the full spectrum, without any other visible signs of degradation, it falls closer to the classification of "lossy samples." Generally, if one notices degradation from an unzoomed view, it is a lossy master. However, an unzoomed lossy master will not always have noticeable degradation. Tracks with many artifacts masked by noise should be reported for lossy master approval.
-
-The lossy master flag serves two primary purposes. It protects a legitimately sourced upload from being reported as a bad transcode and deleted by a moderator and informs potential downloaders that the file is not completely lossless despite being in a lossless format. However, this flag is not necessary for files classified as "lossy samples". Since they are overwhelmingly lossless and clearly not transcodes, they do not require the protection offered by the flag. Instead of reporting those for lossy master approval, one can include information about the presence of lossy samples and spectrals in the torrent description.
-
-Note: If the only lossy mastered tracks in a release are short intro/interlude/outro tracks, it does not fall under a lossy master or transcode.
 
 ### Lossless Files
 
@@ -76,7 +70,7 @@ However, you will sometimes see a few lossy artifacts inside a file that is most
 
 Lossy files are used to lower file sizes at the cost of bits. With the assistance of magic complicated algorithms, they can greatly reduce the size of an audio file while keeping it transparent. A transparent encode means that a human listener cannot tell the difference between the lossy file and its lossless source. Transcodes from lossless to lossy are **good.** Transcodes from lossy are **bad.** Some of these algorithms leave visible traces in a spectral, which we can use to determine some information about a track.
 
-By definition, a lossy file cannot be reconstructed into its lossless source. Bits necessary for doing so have been removed from the file, and other bits manipulated to create a sound that sounds equivalent to the original, at least to humans. Out of all the mainstream encoders used by consumers of music, Redacted allows MP3 and AAC \(trumpable by MP3\).
+By definition, a lossy file cannot be reconstructed into its lossless source. Bits necessary for doing so have been removed from the file, and other bits manipulated to create a sound that sounds equivalent to the original, at least to humans.
 
 ### Lossy Identifiers & Artifacts
 
@@ -88,7 +82,7 @@ Noise is not a lossy artifact but is an important concept that should be covered
 
 Noise is random audio data that doesn't fit any pattern or resemble any meaningful audio data. It is sometimes present across an audio file. Noise is sometimes applied alongside dithering; a file can be a bad transcode yet have random noise in high frequencies. Noise patterns frequently added alongside dithering can be found in a later section.
 
-Audio data in high frequencies is a good sign for a music file--lossy encoders, in order to preserve bits, do not have much use for audio data above 20kHz, the limit to human hearing. They employ various techniques to remove data in upper frequencies while maintaining transparency. Although it is a good sign, audio data in higher frequencies are not a guarantee that a file is lossless. Some encoders do not apply a lowpass filter \(AAC, LAME V0\) and others allow for that filter to be modified or removed entirely \(LAME\).
+Audio data in high frequencies is a good sign for a music file-lossy encoders, in order to preserve bits, do not have much use for audio data above 20kHz, the limit to human hearing. They employ various techniques to remove data in upper frequencies while maintaining transparency. Although it is a good sign, audio data in higher frequencies are not a guarantee that a file is lossless. Some encoders do not apply a lowpass filter \(AAC, LAME V0\) and others allow for that filter to be modified or removed entirely \(LAME\).
 
 Do not confuse legitimate data with noise and vice versa. Examples of noise patterns can be found below.
 
@@ -122,7 +116,7 @@ See [this](https://wiki.hydrogenaud.io/index.php?title=High-frequency_content_in
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-#### **Low cutoff with small blocks \(LM\)**  
+#### **Low cutoff with small blocks \(LM\)**
 
 ![](../.gitbook/assets/image%20%2886%29.png)
 
@@ -198,8 +192,6 @@ Lossy encoders employ a myriad of techniques to reduce the file size while maint
 
 In some cases, a definitive answer based on the spectral alone is not possible. When the spectral leaves doubts, the source of the file, the genres and styles, and the media it came from all can contribute to determining whether something is lossy or not. Information about a file can tip the scales from not very suspicious to very suspicious. Some AAC encoders, for example, can trim a file down to 320kbps but keep a spectral nearly identical to the FLAC \(note that this is not usually the case\). Unfortunately, sometimes there's no noticing that difference with mere spectral analysis, so having good and reliable sources for uploads is very important.
 
-With experience comes a better ability to distinguish lossy from lossless. However, even some of the most experienced people at spectral analysis can be uncertain. If you are cannot come to a definitive conclusion, ask for help at `The "Is this a transcode?" thread`.
-
 For example, try to tell which one is 320 AAC \(libavcodec\) and which is FLAC.
 
 #### **Full spectrals**
@@ -261,7 +253,7 @@ Occasionally the harmonics of a file will display weirdly in a spectral. Althoug
 
 ![](../.gitbook/assets/image%20%2859%29.png)
 
-**CRT Monitors**
+#### **CRT Monitors**
 
 These are the cause of horizontal lines across a spectral, as they are sometimes present in a recording. They are not a lossy artifact.
 
@@ -281,11 +273,11 @@ Some genres, such as Classical and Jazz, often have very quiet recordings. When 
 
 As briefly mentioned in the noise section above, random noise can be present in the spectrals. There are several frequently-occurring noise patterns, each with their own distinct characteristics and causes for being present.
 
-One should be wary around noise--since it can come from MQA, extra care should be given to ensure that the file is legitimate \(i.e. the noise is not because of it being or sourced from a MQA file\). `The "Is this a transcode?" thread` is available for the uncertain.
+One should be wary around noise--since it can come from MQA, extra care should be given to ensure that the file is legitimate \(i.e. the noise is not because of it being or sourced from a MQA file\).
 
 #### **Dither**
 
-When FLACs of a higher bit depth are dithered to a lower bit depth, a noise shaping filter is sometimes applied. These create a haze of noise in a spectral. Example spectrals can be found at [http://sox.sourceforge.net/SoX/NoiseShaping](http://sox.sourceforge.net/SoX/NoiseShaping). The distinguishing characteristic of most noise added via this process is the volume level and the gradual rolling off of the noise.
+When FLACs of a higher bit depth are dithered to a lower bit depth, a noise shaping filter is sometimes applied. These create a haze of noise in a spectral. Example spectrals can be found [here](http://sox.sourceforge.net/SoX/NoiseShaping). The distinguishing characteristic of most noise added via this process is the volume level and the gradual rolling off of the noise.
 
 This noise is not an indication of anything wrong with the audio file, but it can mask a lossy master. The presence of a noise-shaping caused haze in the upper ranges or a consistent noise does not mean that a release is lossless. A bad transcode or lossy master dithered from 24-bit to 16-bit with added noise can be confusing to spot; do not let the dither noise cause confusion.
 
@@ -294,8 +286,6 @@ This noise is not an indication of anything wrong with the audio file, but it ca
 These can look very similar to the noise made in the dithering process. However, the noise of MQA files has distinct visual clues which differentiate it from dither-caused noise. For example, MQA noise will typically shelve at around 19 kHz and 15 kHz, in a horizontally visible way. Although loud tracks will make it difficult to look for a shelf in MQA noise, the lead-outs are sometimes quiet enough to inspect for the shelves. The MQAid script can identify MQA files with certainty; however, it fails on downconverted, downsampled, and/or transcoded MQA files. In those cases, one should inspect the spectrals.
 
 ![](../.gitbook/assets/image%20%2817%29.png)
-
-See `User Guide to Identifying MQA-encoded files` for information about what the spectrals look like.
 
 ### Lossy to Lossy Transcodes
 
@@ -321,7 +311,7 @@ When a file is 88.2 kHz, but audio data extends only up to 22 kHz \(44.1 kHz fil
 
 ### Making Spectrograms
 
-There are many programs available for creating spectrograms, but we recommend that you use SoX or Adobe Audition, and if neither are available, Audacity. Other tools, such as Spek, lack certain features and characteristics which the above three possess. Spek has poor sensitivity and does not allow for a zoomed view of a track; therefore, it is only useful for analyzing blatant transcodes with obvious lossy cutoffs.
+There are many programs available for creating spectrograms, but we recommend that you use [SoX](sox-sound-exchange.md) or [Adobe Audition](adobe-audition.md), and if neither are available, [Audacity](audacity.md). Other tools, such as Spek, lack certain features and characteristics which the above three possess. Spek has poor sensitivity and does not allow for a zoomed view of a track; therefore, it is only useful for analyzing blatant transcodes with obvious lossy cutoffs.
 
 Audition and Audacity are both GUI programs which allow for manual zooming of a track and frequency analysis plots. Audition is paid but can be pirated, while Audacity is free. SoX is a command line tool with spectral generation functionality. It is free and allows for easy automation of spectral generation.
 
