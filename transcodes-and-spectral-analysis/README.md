@@ -8,7 +8,7 @@ description: >-
 
 Note: For the purpose of this article, lossy master \(LM\) refers to both lossy web and lossy master.
 
-This article attempts to better one's ability at recognizing lossy masters / transcodes. While it contains a lot of information, the ability to quickly distinguish lossy master from legitimate FLAC will only come from experience. This article will not transform a novice into an expert. Ask for help at [The "Is this a transcode?" thread](https://redacted.ch/forums.php?action=viewthread&threadid=2772) if you are confused or have doubts about a file's status as lossy or lossless.
+This article attempts to better one's ability at recognizing lossy masters / transcodes. While it contains a lot of information, the ability to quickly distinguish lossy master from legitimate FLAC will only come from experience. This article will not transform a novice into an expert. Ask for help at `The "Is this a transcode?" thread` if you are confused or have doubts about a file's status as lossy or lossless.
 
 Some tools exist to automatically determine whether or not something is legitimate lossless. Two such tools are Audio Identifier and auCDtect. They are useless. Discard all of them. Do not speak of them. Most importantly, **do not trust them.** They are not reliable indicators of quality and are wrong extremely often.
 
@@ -198,7 +198,7 @@ Lossy encoders employ a myriad of techniques to reduce the file size while maint
 
 In some cases, a definitive answer based on the spectral alone is not possible. When the spectral leaves doubts, the source of the file, the genres and styles, and the media it came from all can contribute to determining whether something is lossy or not. Information about a file can tip the scales from not very suspicious to very suspicious. Some AAC encoders, for example, can trim a file down to 320kbps but keep a spectral nearly identical to the FLAC \(note that this is not usually the case\). Unfortunately, sometimes there's no noticing that difference with mere spectral analysis, so having good and reliable sources for uploads is very important.
 
-With experience comes a better ability to distinguish lossy from lossless. However, even some of the most experienced people at spectral analysis can be uncertain. If you are cannot come to a definitive conclusion, ask for help at [The "Is this a transcode?" thread](https://redacted.ch/forums.php?action=viewthread&threadid=2772).
+With experience comes a better ability to distinguish lossy from lossless. However, even some of the most experienced people at spectral analysis can be uncertain. If you are cannot come to a definitive conclusion, ask for help at `The "Is this a transcode?" thread`.
 
 For example, try to tell which one is 320 AAC \(libavcodec\) and which is FLAC.
 
@@ -281,7 +281,7 @@ Some genres, such as Classical and Jazz, often have very quiet recordings. When 
 
 As briefly mentioned in the noise section above, random noise can be present in the spectrals. There are several frequently-occurring noise patterns, each with their own distinct characteristics and causes for being present.
 
-One should be wary around noise--since it can come from MQA, extra care should be given to ensure that the file is legitimate \(i.e. the noise is not because of it being or sourced from a MQA file\). [The "Is this a transcode?" thread](https://redacted.ch/forums.php?action=viewthread&threadid=2772) is available for the uncertain.
+One should be wary around noise--since it can come from MQA, extra care should be given to ensure that the file is legitimate \(i.e. the noise is not because of it being or sourced from a MQA file\). `The "Is this a transcode?" thread` is available for the uncertain.
 
 #### **Dither**
 
@@ -295,13 +295,13 @@ These can look very similar to the noise made in the dithering process. However,
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
-See [User Guide to Identifying MQA-encoded files](https://redacted.ch/wiki.php?action=article&id=365) for information about what the spectrals look like.
+See `User Guide to Identifying MQA-encoded files` for information about what the spectrals look like.
 
 ### Lossy to Lossy Transcodes
 
 Lossy to lossy transcodes are either very easy or very difficult to spot. There are two primary ways in which a lossy to lossy transcode can be spotted: comparing against the original file and checking the cutoffs.
 
-If the lossy file has a cutoff below where it's supposed to be, it can be an indication that it's a bad transcode. Since MP3 encoders allow the cutoff to be changed regardless of bitrate, it's not a foolproof method of determining a lossy to lossy transcode. See [https://wiki.hydrogenaud.io/index.php?title=LAME\#Recommended\_settings\_details](https://wiki.hydrogenaud.io/index.php?title=LAME#Recommended_settings_details) for the lowpass filters \(aka cutoff\) of MP3 320 and the VBR presets. The following encodings are not available on that page:
+If the lossy file has a cutoff below where it's supposed to be, it can be an indication that it's a bad transcode. Since MP3 encoders allow the cutoff to be changed regardless of bitrate, it's not a foolproof method of determining a lossy to lossy transcode. See [this](https://wiki.hydrogenaud.io/index.php?title=LAME#Recommended_settings_details) for the lowpass filters \(aka cutoff\) of MP3 320 and the VBR presets. The following encodings are not available on that page:
 
 * MP3 256kbps \(CBR\) has a frequency cut-off at 20 kHz.
 * MP3 192kbps \(CBR\) has a frequency cut-off at 19 kHz.
