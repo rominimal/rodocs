@@ -1,7 +1,5 @@
 ---
-description: >-
-  Excerpt of the article from one website. Written by puff. Making Spectrograms
-  instructions written by newstarshipsmell.
+description: Excerpt of the article from one website. Written by puff.
 ---
 
 # Transcodes & Spectral Analysis

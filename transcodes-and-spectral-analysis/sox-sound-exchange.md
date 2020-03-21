@@ -1,5 +1,5 @@
 ---
-description: for Windows
+description: for Windows. Instructions written by newstarshipsmell.
 ---
 
 # SoX \(Sound eXchange\)

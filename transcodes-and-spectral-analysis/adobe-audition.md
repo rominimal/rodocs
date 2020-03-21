@@ -1,3 +1,7 @@
+---
+description: Instructions written by newstarshipsmell.
+---
+
 # Adobe Audition
 
 Adobe Audition is not free, so you must either use the trial version, pay for a license, or find a cracked copy to install. The trial and paid versions can be downloaded here: [https://www.adobe.com/products/audition.html](https://www.adobe.com/products/audition.html)

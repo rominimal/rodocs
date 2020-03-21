@@ -1,3 +1,7 @@
+---
+description: Instructions written by newstarshipsmell.
+---
+
 # Audacity
 
 Go to [https://www.audacityteam.org/download/windows/](https://www.audacityteam.org/download/windows/) \(there's a Mac version too which can be installed in the habitual OSX way by unpacking and dropping into Applications. Set up is about the same regarding parameters and values\)**.**
