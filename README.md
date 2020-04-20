@@ -48,7 +48,7 @@ Please note that members activity in big sharing groups is not welcome \(it's to
 
 ### Inactivity measures
 
-If members uploads made within last 30 days got 0 downloads he/she receive notification about upcoming measures. If situation does not change within following 30 days member gets fine every next 3 days. Fining scale could be found [here](https://rodocs.rv7.ru/#fining-scale).
+If members uploads made within last 30 days got 0 downloads he/she receive notification about upcoming measures. If situation does not change within following 30 days member gets fine every next 3 days. Fining scale could be found [here](./#fining-scale).
 
 ## Support the group
 
