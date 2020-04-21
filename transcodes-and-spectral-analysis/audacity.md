@@ -19,7 +19,7 @@ Once you've installed both Audacity and the FFmpeg library, launch Audacity.
 
 Open the preferences. Click **Edit**, then **Preferences...** \(Or press **Ctrl+P**\):
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 In the treebar on the left, click **Tracks**.
 
@@ -59,7 +59,7 @@ In the treebar on the left, click **Libraries**.
 
 If under "FFmpeg Library Import/Export" you do not see "FFmpeg Library Version: FFmpeg library not found" but some version numbers instead, then you should be done setting up Audacity. Click **OK** to save/close the Preferences window.
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 Otherwise, if you see this:
 
@@ -73,11 +73,11 @@ Hopefully you'll get a popup message of "Success - Audacity has successfully det
 
 Otherwise, click **Browse...**, navigate to the folder where you installed **FFmpeg for Audacity**.
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 Select the **avformat-55.dll** file, then click **Open**, and click **OK**.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 You should be done setting up Audacity. Click **OK** to save/close the Preferences window.
 

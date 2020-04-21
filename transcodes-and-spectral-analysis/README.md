@@ -36,7 +36,7 @@ However, you will sometimes see a few lossy artifacts inside a file that is most
 
 #### **21.5 kHz cutoff \(Lossless\)**
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
@@ -44,25 +44,25 @@ However, you will sometimes see a few lossy artifacts inside a file that is most
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 #### **Lossless with noise shaping \(Lossless\)**
 
 ![](../.gitbook/assets/image%20%2824%29.png)
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 #### **Lossy samples, block artifacts & slight shelf \(Lossy samples\)**
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 #### **Data + Noise \(Lossless\)**
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 ### Lossy Files
 
@@ -106,19 +106,19 @@ See [this](https://wiki.hydrogenaud.io/index.php?title=High-frequency_content_in
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 #### **21 kHz cutoff \(Lossless\)**
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 #### **Low cutoff with small blocks \(LM\)**
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 **Shelves**
 
@@ -128,11 +128,11 @@ When audio data is significantly decreased above a certain frequency, but not cu
 
 A shelf will be uncommon to see in a legitimately lossless file but is often present in lossy to lossless transcodes.
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 #### **Shelf at 16kHz \(MP3 320\)**
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
@@ -144,45 +144,45 @@ Lossy encoders create blocks in the process of saving bits. It is purely a lossy
 
 #### **Looks lossless.. but isn't \(LM\)**
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2864%29.png)
 
 #### **Blocks above a low shelf \(LM\)**
 
-![](../.gitbook/assets/image%20%2882%29.png)
-
 ![](../.gitbook/assets/image%20%2883%29.png)
+
+![](../.gitbook/assets/image%20%2884%29.png)
 
 #### **Blocks in a low cutoff \(LM\)**
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
 #### **Transcode with noise \(LM\)**
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 #### **Very condensed blocking of noise \(MP3 320\)**
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
 #### **A few blocks inside a lossless track \(Lossy samples\)**
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 #### **Cutoff and blocks \(LM\)**
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 ### **Tying The Signs Together**
 
@@ -202,7 +202,7 @@ For example, try to tell which one is 320 AAC \(libavcodec\) and which is FLAC.
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 #### **Answer**
 
@@ -219,9 +219,9 @@ Clipping occurs when the volume of the track reaches the maximum level possible 
 
 #### **Clipping bursts \(LM\)**
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 #### **Heavily degraded lossy clipping \(LM\)**
 
@@ -235,21 +235,21 @@ Occasionally the harmonics of a file will display weirdly in a spectral. Althoug
 
 #### **A loud zigzag \(Lossless\)**
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 #### **A quiet zigzag \(Lossless\)**
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 #### **Horizontal lines and bursts**
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
 #### **CRT Monitors**
 
@@ -257,15 +257,15 @@ These are the cause of horizontal lines across a spectral, as they are sometimes
 
 #### **Examples**
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 #### **Quiet Tracks**
 
 Some genres, such as Classical and Jazz, often have very quiet recordings. When examining the spectrals for quiet albums, most of the data will be blue and it can be very hard to spot data in the double-digit frequency ranges. That does not mean that a file is lossy--the unassuming nature of spectrals of quiet tracks does not equate to a degradation in quality.
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 #### **Noise Patterns**
 
@@ -305,7 +305,7 @@ In a spectral, the sample rate determines how high \(with frequency as the Y-axi
 
 When a file is 88.2 kHz, but audio data extends only up to 22 kHz \(44.1 kHz file\), it is a sign that the file is derived from a 44.1 kHz file and upsampled to 88.2 kHz.
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 ### Making Spectrograms
 

@@ -10,7 +10,7 @@ Download either the installer \(**sox-14.4.2-win32.exe**\) or portable \(**sox-1
 
 If you choose to install it, rather than using the portable version, you must change the default installation folder to somewhere besides **C:\Program Files** / **C:\Program Files \(x86\)** - otherwise, Windows permissions will prevent SoX from creating the output image files.
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 Install or unpack SoX to the desired location.
 

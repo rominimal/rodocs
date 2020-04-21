@@ -12,7 +12,7 @@ You can turn requested downloads to preferred audio format using [@convrt\_bot](
 
 It is a known issue of [Telergam for Mac](https://macos.telegram.org/) app. It has a problem with uploading big files on Telegram servers, so your uploads look like this:
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 Not much you can do here, apart from start using [Telegarm Desktop](https://desktop.telegram.org/) or [Teleram Web](https://web.telegram.org/) for uploading files in the group.
 
@@ -22,4 +22,10 @@ Some time ago we had almost complete database loss. Most of it is already restor
 
 If you have something from these tracks, please upload them and help to restore the library!  
 For successful track restoration you get **0.1** chatles.
+
+### How to enable Incognito mode?
+
+Go to [@romnml\_bot](https://t.me/romnml_bot). Type **/done**. Choose "Toggle incognito mode"
+
+![](.gitbook/assets/image%20%2828%29.png)
 
