@@ -97,13 +97,13 @@ Users whose balance is over **500 chatles** got fined for **50 chatles** for a t
 Users whose balance is over **100 chatles** got fined for **10 chatles** for a track.  
 Users whose balance is under **100 chatles** got fined for **1 chatle** for a track.
 
-## Groups-sattelites
+## Groups-satellites
 
 Check the [snippets group](https://t.me/joinchat/ATDwrEYkooRWtBoXRRFp8Q) \(contains cuts of all the uploads in this group\).  
 You'll love the digging on-the-go!
 
-**Do not upload transcodes**  
-If you not sure whether your upload is a transcode, [join this group](https://t.me/joinchat/ATDwrFDxDvSammrC82ihrg).
+**Please do not upload transcodes!**  
+If you not sure whether your upload is a transcode, [read this article](transcodes-and-spectral-analysis/) and [join this group](https://t.me/joinchat/ATDwrFDxDvSammrC82ihrg).
 
 ## Tutorial videos
 
