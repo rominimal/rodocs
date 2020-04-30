@@ -20,7 +20,7 @@ Violation of general rules, gives user a penalty!
 
 ### Bunches of tracks
 
-It is only allowed up to a **10 tracks per bunch**!  
+It is only allowed up to **10 tracks per bunch**!  
 The only exception is complete releases with more tracks.
 
 When user uploads more than 10 random tracks in a bunch, he receives a penalty!  
