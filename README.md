@@ -93,9 +93,9 @@ One successfully approved change gives you **0.1 chatles** \(effectively 10 succ
 
 ## Fining scale
 
-Users whose balance is over **500 chatles** got fined for **50 chatles** for a track.  
-Users whose balance is over **100 chatles** got fined for **10 chatles** for a track.  
-Users whose balance is under **100 chatles** got fined for **1 chatle** for a track.
+Users whose balance is over 500 chatles **got fined** for 50 chatles for a track.  
+Users whose balance is over 100 chatles **got fined** for 10 chatles for a track.  
+Users whose balance is under 100 chatles **got fined** for 1 chatle for a track.
 
 ## Groups-satellites
 
