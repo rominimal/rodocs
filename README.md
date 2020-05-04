@@ -30,7 +30,7 @@ When user uploads more than 10 random tracks in a bunch, he receives a penalty!
 
 When user uploads a [transcodes](transcodes-and-spectral-analysis/#transcodes), [stretched files \(traxdb\)](how-to-fill-in-upload-with-correct-meta-data/labeling-uploads.md#stretched), [irrelevant music](https://romnml.rv7.ru/?irrelevant=true) \(what's not related to minimal/deep\), he suppose to label these files himself to avoid be fined \(possible via [roboard](https://romnml.rv7.ru/)\).
 
-[Here](./#fining-scale) you can find the fining scale. 
+[Here](./#penalty-scale) you can find the penalty scale. 
 
 ### Bad metadata of uploads
 
@@ -48,7 +48,7 @@ Please note that members activity in big sharing groups is not welcome \(it's to
 
 ### Inactivity measures
 
-If members uploads made within last 30 days got 0 downloads he/she receive notification about upcoming measures. If situation does not change within following 30 days member gets fine every next 3 days. Fining scale could be found [here](./#fining-scale).
+If members uploads made within last 30 days got 0 downloads he/she receive notification about upcoming measures. If situation does not change within following 30 days member gets fine every next 3 days. Penalty scale could be found [here](./#penalty-scale).
 
 ## Support the group
 
@@ -91,7 +91,7 @@ You can propose [bad metadata](https://romnml.rv7.ru/?badTagged=true) fixes in o
 Please read [this manual](how-to-fill-in-upload-with-correct-meta-data/) before proposing any changes.  
 One successfully approved change gives you **0.1 chatles** \(effectively 10 successfull changes give you 1 download at this point\).
 
-## Fining scale
+## Penalty scale
 
 Users whose balance is over 500 chatles **got fined** for 50 chatles for a track.  
 Users whose balance is over 100 chatles **got fined** for 10 chatles for a track.  
