@@ -91,7 +91,7 @@ Please study [this article](https://bit.ly/2qyzphj) about bad transcodes. Of cou
 
 #### stretched
 
-Such uploads might look as regular lossless files by spectrogram, although in fact they were processed with the software that make lossy files look like lossless. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
+Such uploads might look like regular lossless files by spectrograms, although in fact they were processed with the software that make lossy files look like lossless. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
 
 #### bad vinyl rip
 
