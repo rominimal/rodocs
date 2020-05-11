@@ -73,11 +73,11 @@ Recently, one may say digital [yoyaku](https://www.discogs.com/label/1119605-yoy
 
 #### **mono**
 
-The upload is mono. Such uploads aren't participating in chatles circulation \(they're free and uploader do not earn anything for those\).
+The source is mono. Such uploads aren't participating in chatles circulation \(they're free and uploader do not earn anything for those\).
 
-#### **stretched**
+#### **maybe stretched**
 
-Such uploads might look like regular lossless files by spectrograms, although in fact they were processed with the software that make lossy files look like lossless. These files aren't participating in chatles circulation.
+Such uploads might look as regular lossless files by spectrogram, although in fact they were processed with the software that make lossy files look like lossless. They're still participate in chatles circulation.
 
 #### **abrupt ending**
 
@@ -91,7 +91,7 @@ Please study [this article](https://bit.ly/2qyzphj) about bad transcodes. Of cou
 
 #### stretched
 
-Could be added either automatically or manually. Such uploads might look like regular lossless files by spectrograms, although in fact they were processed with the software that make lossy files look like lossless. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
+Such uploads might look like regular lossless files by spectrograms, although in fact they were processed with the software that make lossy files look like lossless. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
 
 #### bad vinyl rip
 
@@ -119,15 +119,15 @@ Used to label files from DJ-mixes \(or complete DJ-mixes\), which are of course 
 
 #### mono
 
-Could be added either automatically or manually. Used for manual labeling mono-files. These files aren't participating in chatles circulation.
+Used for manual labeling mono-files. These files aren't participating in chatles circulation.
 
 #### very bad
 
-Unexplainably bad files, like noisy, overloaded, you name it. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
+Unexplainable bad files, like noisy, overloaded, you name it. These files aren't participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../#penalty-scale).
 
 #### abrupt ending
 
-Could be added either automatically or manually. Used for manual labeling of abruptly finishing files. These files aren't participating in chatles circulation.
+Used for manual labeling of abruptly finishing files. These files aren't participating in chatles circulation.
 
 ### Self-explanatory \(or previously described\) manual labels
 
