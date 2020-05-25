@@ -79,6 +79,8 @@ In order to keep community members active, it is necessary to maintain a good ba
 
 Every Monday, between [20:00 and 22:00 CET](https://www.google.com/search?q=20%3A00+CET) Happy Hours are taking place. It means that all requested tracks worth you less than usual - just **0.5 chatles**.
 
+Here's [iCal feed](https://shorturl.at/vAW48) for your calendar.
+
 Also, once approved, [bad metadata](https://romnml.rv7.ru/?badTagged=true) fix brings you **0.33 chatles** instead of 0.1.
 
 ## File formats
