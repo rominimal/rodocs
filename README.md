@@ -36,12 +36,6 @@ When user uploads a [transcodes](transcodes-and-spectral-analysis/#transcodes), 
 
 When user uploads track named "_Unknown Artist - Unknown Title_", or "_01. Track 01.wav_", or "666666\_Oops\_I\_Did\_It\_Again.wav", he/she's obliged to [fix its metadata](how-to-fill-in-upload-with-correct-meta-data/) **right away**. If not, he receives a penalty. 2 penalties gives a user 1 month of "vacation".
 
-### Sharing pre-released music
-
-This group is not the place for inflicting damage on upcoming releases! Therefore, keep in mind that sharing anything that haven't been officially released yet **is a lifetime ban**. 
-
-It might happen that you accidentally drop in one of your _black folders_ here, not a problem — [label it](how-to-fill-in-upload-with-correct-meta-data/labeling-uploads.md) with `called off` right away by yourself and there won’t be consequences.
-
 ### Activity in big groups
 
 Please note that members activity in big sharing groups is not welcome \(it's totally fine if happening in smaller groups though\). Activity means sharing or requesting music. When spotted a member gets "yellow" card. Second occasion gives user a one month ban.
