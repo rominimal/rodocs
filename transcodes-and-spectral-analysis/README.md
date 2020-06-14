@@ -120,7 +120,7 @@ See [this](https://wiki.hydrogenaud.io/index.php?title=High-frequency_content_in
 
 ![](../.gitbook/assets/image%20%2863%29.png)
 
-**Shelves**
+### **Shelves**
 
 A shelf is similar to a cutoff in that it's at a specific frequency and horizontally visible across \(a portion of\) the spectral, but they have significant differences. Many conflate cutoffs and shelves, but each has their own attributes and resulting conclusions.
 
