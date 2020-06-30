@@ -15,6 +15,8 @@ Didn't find it? No problem – just ask in the group.
 
 Speak only English and only when it's needed. [Use chatroom if you feel chatty](https://t.me/romnml).
 
+**Be nice or go away!**
+
 Violation of general rules, gives user a penalty!  
 2 penalties gives a user 1 month of "vacation".
 
