@@ -11,19 +11,19 @@ Didn't find it? No problem – just ask in the group.
 
 **Please do not search using Telegram, do this only through the** [**bot**](https://t.me/romnml_bot) **or** [**Roboard**](https://romnml.rv7.ru/)**.**
 
-**Please upload music right in the main group or through the** [**bot**](https://t.me/romnml_bot)**, do not upload music in the** [**chatroom**](https://t.me/romnml)**.**
+**Please upload music only through the** [**bot**](https://t.me/romnml_bot)**, do not upload music in the** [**chatroom**](https://t.me/romnml)**.**
 
 Speak only English and only when it's needed. [Use chatroom if you feel chatty](https://t.me/romnml).
 
-**Be nice or go away!**
+_**Be nice or go away!**_
 
 Violation of general rules, gives user a penalty!  
-2 penalties gives a user 1 month of "vacation".
+3 penalties gives a user 1 month of "vacation".
 
 ### Bunches of tracks
 
 It is only allowed up to **10 tracks per bunch**!  
-The only exception is complete releases with more tracks.
+The only exception is complete releases with more tracks, or tracks of the same artist.
 
 When user uploads more than 10 random tracks in a bunch, he receives a penalty!  
 2 penalties gives a user 1 month of "vacation".
@@ -48,7 +48,7 @@ If members uploads made within last 30 days got 0 downloads he/she receive notif
 
 ## Support the group
 
-Group is built on top of advanced system that performs archives extraction, snippets and spectrograms generation, files analysing \(deduplication, audio info extraction, etc\). System is constantly improving. It is based on the servers that aren't free.
+Group is built on top of advanced system that performs archives extraction, snippets and spectrograms generation, files analysis \(deduplication, audio info extraction, etc\). System is constantly improving. It is based on the servers that aren't free.
 
 Your support is highly appreciated!  
 [Become a patron!](https://patreon.com/rominimal)  
