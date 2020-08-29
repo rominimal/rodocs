@@ -9,7 +9,7 @@ And **do not** ask for music in the [chatroom](https://t.me/romnml).
 Looking for a track? Ask [@romnml\_bot](https://t.me/romnml_bot)  
 Didn't find it? No problem – just ask in the group.
 
-**Please do not search using Telegram, do this only through the** [**bot**](https://t.me/romnml_bot) **or** [**Roboard**](https://romnml.rv7.ru/)**.**
+**Please do not search using Telegram, do this only through the** [**bot**](https://t.me/romnml_bot) **or** [**roboard**](https://roboard.rv7.ru/)**.**
 
 **Please upload music only through the** [**bot**](https://t.me/romnml_bot)**, do not upload music in the** [**chatroom**](https://t.me/romnml)**.**
 
@@ -30,7 +30,7 @@ When user uploads more than 10 random tracks in a bunch, he receives a penalty!
 
 ### Quality of uploads
 
-When user uploads a [transcodes](transcodes-and-spectral-analysis/#transcodes), [stretched files \(traxdb\)](how-to-fill-in-upload-with-correct-meta-data/labeling-uploads.md#stretched), [irrelevant music](https://romnml.rv7.ru/?irrelevant=true) \(what's not related to minimal/deep\), he suppose to label these files himself to avoid be fined \(possible via [roboard](https://romnml.rv7.ru/)\).
+When user uploads a [transcodes](transcodes-and-spectral-analysis/#transcodes), [stretched files \(traxdb\)](how-to-fill-in-upload-with-correct-meta-data/labeling-uploads.md#stretched), [irrelevant music](https://romnml.rv7.ru/?irrelevant=true) \(what's not related to minimal/deep\), he suppose to label these files himself to avoid be fined \(possible via [roboard](https://roboard.rv7.ru/)\).
 
 [Here](./#penalty-scale) you can find the penalty scale. 
 
@@ -54,9 +54,9 @@ Your support is highly appreciated!
 [Become a patron!](https://patreon.com/rominimal)  
 Even $1 matters!
 
-## Roboard \(rominimal dashboard\)
+## roboard \(rominimal dashboard\)
 
-[Try out convenient dashboard for browsing uploads in desktop browser](https://romnml.rv7.ru/).
+[Try out convenient dashboard for browsing uploads in desktop browser](https://roboard.rv7.ru/).
 
 ## Download accounting
 
@@ -73,15 +73,11 @@ In order to keep community members active, it is necessary to maintain a good ba
 
 ## Happy hours
 
-Every Monday, between [20:00 and 22:00 CET](https://www.google.com/search?q=20%3A00+CET) Happy Hours are taking place. It means that all requested tracks worth you less than usual - just **0.5 chatles**.
+Sometimes Happy Hours are happening. It means that all requested tracks worth you less than usual - just **0.5 chatles**.
 
 Here's [iCal feed](https://shorturl.at/vAW48) for your calendar.
 
-Also, once approved, [bad metadata](https://romnml.rv7.ru/?badTagged=true) fix brings you **0.33 chatles** instead of 0.1.
-
-## File formats
-
-You can turn requested downloads to preferred audio format using [@convrt\_bot](https://t.me/convrt_bot)
+Also during Happy Hours, once approved, [bad metadata](https://romnml.rv7.ru/?badTagged=true) fix brings you **0.33 chatles** instead of 0.1.
 
 ## Alternative ways of getting chatles
 
