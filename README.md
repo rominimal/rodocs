@@ -13,7 +13,7 @@ Didn't find it? No problem – just ask in the group.
 
 **Please upload music only through the** [**bot**](https://t.me/romnml_bot)**, do not upload music in the** [**chatroom**](https://t.me/romnml)**.**
 
-Speak only English and only when it's needed. [Use chatroom if you feel chatty](https://t.me/romnml).
+Speak only English and only when it's needed. [Use the chatroom if you feel chatty](https://t.me/romnml).
 
 _**Be nice or go away!**_
 
