@@ -79,7 +79,7 @@ In order to keep community members active, it is necessary to maintain a good ba
 
 Sometimes Happy Hours are happening. It means that all requested tracks worth you less than usual - just **0.5 chatles**.
 
-Here's [iCal feed](https://shorturl.at/vAW48) for your calendar.
+Here's [iCal feed](https://shorturl.at/ptxY0) for your calendar.
 
 Also during Happy Hours, once approved, [bad metadata](https://romnml.rv7.ru/?badTagged=true) fix brings you **0.33 chatles** instead of 0.1.
 
