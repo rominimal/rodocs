@@ -46,6 +46,8 @@ Please note that members activity in big sharing groups is not welcome \(it's to
 
 If members uploads made within last 30 days got 0 downloads he/she receive notification about upcoming measures. If situation does not change within following 30 days member gets fine every next 3 days. Penalty scale could be found [here](./#penalty-scale).
 
+If you have no time for active participating, just leave the group. Whenever you need to get back you can enter again through the interview, but not earlier than 30 days since you left.
+
 ### Announcing uploads
 
 If member announced an upload of a certain release he has 1 hour to upload it until it might be uploaded by someone else. If someone else uploaded announced release earlier than 1 hour, he gets a penalty. 3 penalties gives a user 1 month of "vacation".
