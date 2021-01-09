@@ -17,44 +17,46 @@ Speak only English and only when it's needed. [Use the chatroom if you feel chat
 
 _**Be nice or go away!**_
 
-Violation of general rules, gives user a penalty!  
-3 penalties gives a user 1 month of "vacation".
+Violation of general rules, gives member a penalty!  
+_Red card_ gives member 1 month of "vacation".
 
 ### Bunches of tracks
 
 It is only allowed up to **10 tracks per bunch**!  
 The only exception is complete releases with more tracks, or tracks of the same artist.
 
-When user uploads more than 10 random tracks in a bunch, he receives a penalty!  
-3 penalties gives a user 1 month of "vacation".
+On exceeding random tracks upload limit member receives a penalty.  
+Red card gives member 1 month of "vacation".
 
 ### Quality of uploads
 
-When user uploads a [transcodes](transcodes-and-spectral-analysis/#transcodes), [stretched files \(traxdb\)](how-to-fill-in-upload-with-correct-meta-data/labeling-uploads.md#stretched), [irrelevant music](https://romnml.rv7.ru/?irrelevant=true) \(what's not related to minimal/deep\), he suppose to label these files himself to avoid be fined \(possible via [roboard](https://roboard.rv7.ru/)\).
+When someone uploads [transcodes](transcodes-and-spectral-analysis/#transcodes), [stretched files \(traxdb\)](how-to-fill-in-upload-with-correct-meta-data/labeling-uploads.md#stretched), [irrelevant music](https://romnml.rv7.ru/?irrelevant=true) \(what's not related to minimal/deep\), uploader suppose to label these files himself to avoid be fined \(this is possible to do via [roboard](https://roboard.rv7.ru/)\).
 
 [Here](./#penalty-scale) you can find the penalty scale. 
 
 ### Bad metadata of uploads
 
-When user uploads track named "_Unknown Artist - Unknown Title_", or "_01. Track 01.wav_", or "666666\_Oops\_I\_Did\_It\_Again.wav", he/she's obliged to [fix its metadata](how-to-fill-in-upload-with-correct-meta-data/) **right away**. If not, he receives a penalty. 3 penalties gives a user 1 month of "vacation".
+When someone uploads a track named "_Unknown Artist - Unknown Title_", or "_01. Track 01.wav_", or "666666\_Oops\_I\_Did\_It\_Again.wav", it must be [fixed](how-to-fill-in-upload-with-correct-meta-data/) **right away**. Otherwise member gets a penalty. Red card gives member 1 month of "vacation".
 
 ### Activity in big groups
 
-Please note that members activity in big sharing groups is not welcome \(it's totally fine if happening in smaller groups though\). Activity means sharing or requesting music. When spotted a member gets a penalty. 3 penalties gives a user 1 month of "vacation".
+Please note that members activity in big sharing groups is not welcome \(it's totally fine if happening in smaller groups though\). Activity means sharing or requesting music. When spotted, member gets a penalty. Red card gives member 1 month of "vacation".
 
 ### Inactivity measures
 
-If members uploads made within last 30 days got 0 downloads he/she receive notification about upcoming measures. If situation does not change within following 30 days member gets fine every next 3 days. Penalty scale could be found [here](./#penalty-scale).
+Members, who's uploads _made within last 30 days_ have 0 downloads are receive notification about upcoming measures. If situation does not change within following 30 days member gets fine every next 3 days. Penalty scale could be found [here](./#penalty-scale).
 
-If you have no time for active participating, just leave the group. Whenever you need to get back you can enter again through the interview, but not earlier than 30 days since you left.
+That means, if you do not upload something within a month you will get a notification. If you upload something and it won't be downloaded – you also get a notification.
+
+If you have no time for active participating, just leave the group. Whenever you need to get back, you can enter again through the interview process, but not earlier than 30 days since you left.
 
 ### Announcing uploads
 
-If member announced an upload of a certain release he has 1 hour to upload it until it might be uploaded by someone else. If someone else uploaded announced release earlier than 1 hour, he gets a penalty. 3 penalties gives a user 1 month of "vacation".
+If member announced an upload of a certain release he has 1 hour to upload it until it might be uploaded by someone else. If someone else uploaded announced release earlier than 1 hour, he gets a penalty. Red card gives member 1 month of "vacation".
 
 ## Support the group
 
-Group is built on top of advanced system that performs archives extraction, snippets and spectrograms generation, files analysis \(deduplication, audio info extraction, etc\). System is constantly improving. It is based on the servers that aren't free.
+Group is built on top of advanced system that performs diverse automatisations, like snippets and spectrograms generation, files analysis \(deduplication, audio info extraction, etc\). This system is constantly improving. It is running on the servers that aren't free.
 
 Your support is highly appreciated!  
 [Become a patron!](https://patreon.com/rominimal)  
@@ -75,7 +77,7 @@ If you uploaded a track that haven't been downloaded by anybody, you get 0 chatl
 
 Your current balance is available in the _Stats_ section of [@romnml\_bot](https://t.me/romnml_bot) or in [roboard](https://romnml.rv7.ru/).
 
-In order to keep community members active, it is necessary to maintain a good balance of chatles. Members having less than **10 chatles** within **30 days** are being excluded.
+In order to keep community members active, it is necessary to maintain a good balance of chatles. Members with less than **10 chatles** on balance within **30 days** are being expelled.
 
 ## Happy hours
 
@@ -87,15 +89,15 @@ Also during Happy Hours, once approved, [bad metadata](https://romnml.rv7.ru/?ba
 
 ## Alternative ways of getting chatles
 
-You can propose [bad metadata](https://romnml.rv7.ru/?badTagged=true) fixes in order to earn some chatles.  
+You can propose [bad metadata](https://roboard.rv7.ru/?needsFix=true) fixes in order to earn some chatles.  
 Please read [this manual](how-to-fill-in-upload-with-correct-meta-data/) before proposing any changes.  
-One successfully approved change gives you **0.1 chatles** \(effectively 10 successfull changes give you 1 download at this point\).
+One successfully approved change gives you **0.1 chatles** \(effectively 10 successful changes give you possibility to download one file\).
 
 ## Penalty scale
 
-Users whose balance is over 500 chatles **got fined** for 50 chatles for a track.  
-Users whose balance is over 100 chatles **got fined** for 10 chatles for a track.  
-Users whose balance is under 100 chatles **got fined** for 1 chatle for a track.
+Members whose balance is over 500 chatles **got fined** for 50 chatles for a track.  
+Members whose balance is over 100 chatles **got fined** for 10 chatles for a track.  
+Members whose balance is under 100 chatles **got fined** for 1 chatle for a track.
 
 ## Groups-satellites
 
