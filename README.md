@@ -6,7 +6,7 @@ Looking for track ID? Ask in the [chatroom](https://t.me/romnml).
 Want to chat? Please use the [chatroom](https://t.me/romnml).  
 And **do not** ask for music in the [chatroom](https://t.me/romnml).
 
-Looking for a track? Ask [@romnml\_bot](https://t.me/romnml_bot)  
+Looking for a track? Search in the [bot](https://t.me/romnml_bot) or [roboard](https://roboard.rv7.ru/).  
 Didn't find it? No problem – just ask in the group.
 
 **Please do not search using Telegram, do this only through the** [**bot**](https://t.me/romnml_bot) **or** [**roboard**](https://roboard.rv7.ru/)**.**
