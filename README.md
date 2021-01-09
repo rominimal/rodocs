@@ -9,9 +9,8 @@ And **do not** ask for music in the [chatroom](https://t.me/romnml).
 Looking for a track? Search in the [bot](https://t.me/romnml_bot) or [roboard](https://roboard.rv7.ru/).  
 Didn't find it? No problem – just ask in the group.
 
-**Please do not search using Telegram, do this only through the** [**bot**](https://t.me/romnml_bot) **or** [**roboard**](https://roboard.rv7.ru/)**.**
-
-**Please upload music only through the** [**bot**](https://t.me/romnml_bot)**, do not upload music in the** [**chatroom**](https://t.me/romnml)**.**
+**Please do not search using Telegram, do this only through the** [**bot**](https://t.me/romnml_bot) **or** [**roboard**](https://roboard.rv7.ru/)**.  
+Please upload music only through the** [**bot**](https://t.me/romnml_bot)**, do not upload music in the** [**chatroom**](https://t.me/romnml)**.**
 
 Speak only English and only when it's needed. [Use the chatroom if you feel chatty](https://t.me/romnml).
 
