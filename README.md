@@ -45,7 +45,9 @@ Please note that members activity in big sharing groups is not welcome \(it's to
 
 Members, who's uploads _made within last 30 days_ have 0 downloads are receive notification about upcoming measures. If situation does not change within following 30 days member gets fine every next 3 days. Penalty scale could be found [here](./#penalty-scale).
 
-That means, if you do not upload something within a month you will get a notification. If you upload something and it won't be downloaded – you also get a notification.
+That means, if you do not upload something within one month you will get a notification. If you upload something that won't be downloaded – you also get a notification.
+
+Eventually inactive members reaching critical minimum balance \(10 chatles\) and have 30 days to fix this, otherwise expelled.
 
 If you have no time for active participating, just leave the group. Whenever you need to get back, you can enter again through the interview process, but not earlier than 30 days since you left.
 
