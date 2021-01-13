@@ -67,6 +67,8 @@ Even $1 matters!
 
 [Try out convenient dashboard for browsing uploads in desktop browser](https://roboard.rv7.ru/).
 
+![](.gitbook/assets/ajaahgl1dp.gif)
+
 ## Download accounting
 
 To be able to download – be sure you also shared something anybody could appreciate with a download.
