@@ -35,7 +35,7 @@ When someone uploads [transcodes](transcodes-and-spectral-analysis/#transcodes),
 
 ### Bad metadata of uploads
 
-When someone uploads a track named "_Unknown Artist - Unknown Title_", or "_01. Track 01.wav_", or "666666\_Oops\_I\_Did\_It\_Again.wav", it must be [fixed](how-to-fill-in-upload-with-correct-meta-data/) **right away**. Otherwise member gets a penalty. Red card gives member 1 month of "vacation".
+When someone uploads a track named "_Unknown Artist - Unknown Title_", or "_01. Track 01.wav_", or "666666\_Oops\_I\_Did\_It\_Again.wav", it must be [fixed](how-to-fill-in-upload-with-correct-meta-data/) **within 10 minutes after the upload**. Otherwise member gets a penalty. Red card gives member 1 month of "vacation".
 
 ### Activity in big groups
 
