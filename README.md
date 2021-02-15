@@ -61,13 +61,15 @@ If you have no time for active participating, just leave the group. Whenever you
 
 If member announced an upload of a certain release he has 1 hour to upload it until it might be uploaded by someone else. If someone else uploaded announced release earlier than 1 hour, he gets a penalty. Red card gives member 1 month of "vacation".
 
-## Support the group
+## Support the group 🙏
 
-Group is built on top of advanced system that performs diverse automatisations, like snippets and spectrograms generation, files analysis \(deduplication, audio info extraction, etc\). This system is constantly improving. It is running on the servers that aren't free.
+Group is built on top of advanced system that performs diverse automatizations, like snippets and spectrograms generation, files analysis \(deduplication, audio info extraction, etc\). This system is constantly improving. It is running on the servers that aren't free.
 
 Your support is highly appreciated!  
 [Become a patron!](https://patreon.com/rominimal)  
 Even $1 matters!
+
+If Patreon does not work for you for some reason, feel free to make one-time contribution via [Bunq paygate](http://bunq.me/rominimal/5).
 
 ## roboard \(rominimal dashboard\)
 
