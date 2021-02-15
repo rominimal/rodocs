@@ -2,6 +2,12 @@
 
 ## General rules
 
+_**Please read at least this page \(it's just 5 minutes of reading\). It covers most of important points.  
+Read it again from time to time because its being updated regularly.  
+Do not "double check" with admins what you just read. Please ask question only if something is unclear.  
+If you read and understand it all, be happy and skip the double checking part.  
+Let's respect each others time.**_
+
 Looking for track ID? Ask in the [chatroom](https://t.me/romnml).  
 Want to chat? Please use the [chatroom](https://t.me/romnml).  
 And **do not** ask for music in the [chatroom](https://t.me/romnml).
@@ -15,12 +21,6 @@ Please upload music only through the** [**bot**](https://t.me/romnml_bot)**, do 
 Speak only English and only when it's needed. [Use the chatroom if you feel chatty](https://t.me/romnml).
 
 _**Be nice or go away!**_
-
-_**Please read at least this page \(5 minutes of reading\). It covers most of the most important things.  
-Read it again from time to time because its being updated from time to time.  
-Do not "double check" with admins what you read. Please ask question only if something is unclear.  
-If you read and understand it all, be happy and skip the double checking part.  
-Let's respect time of each others.**_
 
 Violation of general rules, gives member a penalty!  
 _Red card_ gives member 1 month of "vacation".
