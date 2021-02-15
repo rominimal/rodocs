@@ -16,6 +16,12 @@ Speak only English and only when it's needed. [Use the chatroom if you feel chat
 
 _**Be nice or go away!**_
 
+_**Please read at least this page \(5 minutes of reading\). It covers most of the most important things.  
+Read it again from time to time because its being updated from time to time.  
+Do not "double check" with admins what you read. Please ask question only if something is unclear.  
+If you read and understand it all, be happy and skip the double checking part.  
+Let's respect time of each others.**_
+
 Violation of general rules, gives member a penalty!  
 _Red card_ gives member 1 month of "vacation".
 
