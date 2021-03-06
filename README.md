@@ -4,8 +4,9 @@
 
 _**Please read at least this page \(it's just 5 minutes of reading\). It covers most of important points.  
 Read it again from time to time because its being updated regularly.  
-Do not "double check" with admins what you just read. Please ask question only if something is unclear.  
+Do not "double check" with admins what you about to read.  
 If you read and understand it all, be happy and skip the double checking part.  
+Please ask questions only if something is unclear.  
 Let's respect each others time.**_
 
 Looking for track ID? Ask in the [chatroom](https://t.me/romnml).  
