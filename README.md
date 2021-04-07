@@ -11,7 +11,7 @@ Let's respect each others time.**_
 
 Looking for track ID? Ask in the [chatroom](https://t.me/romnml).  
 Want to chat? Please use the [chatroom](https://t.me/romnml).  
-And **do not** ask for music in the [chatroom](https://t.me/romnml).
+And **do not** ask for the music in the [chatroom](https://t.me/romnml).
 
 Looking for a track? Search in the [bot](https://t.me/romnml_bot) or [roboard](https://roboard.rv7.ru/).  
 Didn't find it? No problem – just ask in the group.
@@ -61,6 +61,10 @@ If you have no time for active participating, just leave the group. Whenever you
 ### Announcing uploads
 
 If member announced an upload of a certain release he has 1 hour to upload it until it might be uploaded by someone else. If someone else uploaded announced release earlier than 1 hour, he gets a penalty. Red card gives member 1 month of "vacation".
+
+### Private trade requests
+
+Any call like "Contact me in private for trade" or "Contact me in private to get a proper version of the track" is a penalty. This is an exchange platform. Please do not go above this. Please leave if you're not agree.
 
 ## Support the group 🙏
 
