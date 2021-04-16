@@ -36,13 +36,13 @@ Red card gives member 1 month of "vacation".
 
 ### Quality of uploads
 
-When someone uploads [transcodes](transcodes-and-spectral-analysis/#transcodes), [stretched files \(traxdb\)](how-to-fill-in-upload-with-correct-meta-data/labeling-uploads.md#stretched), [irrelevant music](https://romnml.rv7.ru/?irrelevant=true) \(what's not related to minimal/deep\), uploader suppose to label these files himself to avoid be fined \(this is possible to do via [roboard](https://roboard.rv7.ru/)\).
+When someone uploads [transcodes](audio-stuff/transcodes-and-spectral-analysis/#transcodes), [stretched files \(traxdb\)](group-stuff/how-to-fill-in-upload-with-correct-meta-data/labeling-uploads.md#stretched), [irrelevant music](https://romnml.rv7.ru/?irrelevant=true) \(what's not related to minimal/deep\), uploader suppose to label these files himself to avoid be fined \(this is possible to do via [roboard](https://roboard.rv7.ru/)\).
 
 [Here](./#penalty-scale) you can find the penalty scale. 
 
 ### Bad metadata of uploads
 
-When someone uploads a track named "_Unknown Artist - Unknown Title_", or "_01. Track 01.wav_", or "666666\_Oops\_I\_Did\_It\_Again.wav", it must be [fixed](how-to-fill-in-upload-with-correct-meta-data/) **within 10 minutes after the upload**. Otherwise member gets a penalty. Red card gives member 1 month of "vacation".
+When someone uploads a track named "_Unknown Artist - Unknown Title_", or "_01. Track 01.wav_", or "666666\_Oops\_I\_Did\_It\_Again.wav", it must be [fixed](group-stuff/how-to-fill-in-upload-with-correct-meta-data/) **within 10 minutes after the upload**. Otherwise member gets a penalty. Red card gives member 1 month of "vacation".
 
 ### Activity in big groups
 
@@ -106,7 +106,7 @@ Also during Happy Hours, once approved, [bad metadata](https://romnml.rv7.ru/?ba
 ## Alternative ways of getting chatles
 
 You can propose [bad metadata](https://roboard.rv7.ru/?needsFix=true) fixes in order to earn some chatles.  
-Please read [this manual](how-to-fill-in-upload-with-correct-meta-data/) before proposing any changes.  
+Please read [this manual](group-stuff/how-to-fill-in-upload-with-correct-meta-data/) before proposing any changes.  
 One successfully approved change gives you **0.1 chatles** \(effectively 10 successful changes give you possibility to download one file\).
 
 ## Penalty scale
@@ -121,7 +121,7 @@ Check the [snippets group](https://t.me/joinchat/ATDwrEYkooRWtBoXRRFp8Q) \(conta
 You'll love digging on-the-go!
 
 **Please do not upload transcodes!**  
-If you not sure whether your upload is a transcode, [read this article](transcodes-and-spectral-analysis/) and [join this group](https://t.me/joinchat/ATDwrFDxDvSammrC82ihrg).
+If you not sure whether your upload is a transcode, [read this article](audio-stuff/transcodes-and-spectral-analysis/) and [join this group](https://t.me/joinchat/ATDwrFDxDvSammrC82ihrg).
 
 ## Tutorial videos
 
