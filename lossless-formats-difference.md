@@ -10,6 +10,8 @@ This differs from lossy audio formats such as AAC, MP3, or WMA, which compress a
 
 In a number of available lossless audio formats there are 3 that you probably meet more often: WAV, AIFF and FLAC. In short, these are simply the algorithms of data storage. Lossless audio formats have word "lossless" in them because they never affect the original audio data.
 
+Important to mention also _audio codecs_ here. This is basically a software that represents audio data in a way when it might be processed by another program \(foobar2000, iTunes\) or a device \(CDJ\). The very same audio format might have tons of codecs. Some of them are very old, some are very rare. Not every encoders "understand" all the variety of codecs, which explains why some WAVs are not playable on CDJ or Traktor. The quickest way to fix that is to re-convert to any lossless audio format it with a computer software for audio conversion.
+
 ### Why FLAC is noticeably smaller?
 
 In oppose to lossy audio formats, which affect audio information and effectively deteriorate produced audio output \(by removing "unnecessary" frequencies\), FLAC is using compression algorithms similar to archiving software. Imagine it as WAV put in ZIP archive, which might be "unzipped" on the fly by most of the audio players around.
