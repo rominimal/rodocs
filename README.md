@@ -117,7 +117,7 @@ Members whose balance is under 100 chatles **got fined** for 1 chatle for a trac
 
 ## Groups-satellites
 
-Check the [snippets group](https://t.me/joinchat/ATDwrEYkooRWtBoXRRFp8Q) \(contains cuts of all the uploads in this group\).  
+Check the [snippets group](https://t.me/joinchat/RiSihDxUpKhFEWnx) \(contains cuts of all the uploads in this group\).  
 You'll love digging on-the-go!
 
 **Please do not upload transcodes!**  
