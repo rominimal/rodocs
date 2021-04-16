@@ -11,6 +11,6 @@
     * [Audacity](audio-stuff/transcodes-and-spectral-analysis/audacity.md)
     * [Adobe Audition](audio-stuff/transcodes-and-spectral-analysis/adobe-audition.md)
     * [SoX \(Sound eXchange\)](audio-stuff/transcodes-and-spectral-analysis/sox-sound-exchange.md)
-  * [Lossless formats difference](audio-stuff/lossless-formats-difference.md)
+  * [Lossless audio formats difference](audio-stuff/lossless-formats-difference.md)
   * [Ways to detect a vinyl rip](audio-stuff/ways-to-detect-a-vinyl-rip.md)
 

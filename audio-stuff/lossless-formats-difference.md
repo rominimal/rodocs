@@ -1,4 +1,4 @@
-# Lossless formats difference
+# Lossless audio formats difference
 
 ### What is lossless audio?
 
