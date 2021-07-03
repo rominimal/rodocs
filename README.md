@@ -9,12 +9,15 @@ If you read and understand it all, be happy and skip the double checking part.
 Please ask questions only if something is unclear.  
 Let's respect each others time.**_
 
+There are the **main group** and the [chatroom](https://t.me/romnml).  
+We don't talk much in the main group, for that we have the latter.
+
 Looking for track ID? Ask in the [chatroom](https://t.me/romnml).  
 Want to chat? Please use the [chatroom](https://t.me/romnml).  
 And **do not** ask for the music in the [chatroom](https://t.me/romnml).
 
 Looking for a track? Search in the [bot](https://t.me/romnml_bot) or [roboard](https://roboard.rv7.ru/).  
-Didn't find it? No problem – just ask in the group.
+Didn't find it? No problem – just ask in the main group.
 
 **Please do not search using Telegram, do this only through the** [**bot**](https://t.me/romnml_bot) **or** [**roboard**](https://roboard.rv7.ru/)**.  
 Please upload music only through the** [**bot**](https://t.me/romnml_bot)**, do not upload music in the** [**chatroom**](https://t.me/romnml)**.**
