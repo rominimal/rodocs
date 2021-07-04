@@ -77,7 +77,9 @@ Your support is highly appreciated!
 [Become a patron!](https://patreon.com/rominimal)  
 Even $1 matters!
 
-If Patreon does not work for you for some reason, feel free to make one-time contribution via [Paypal](https://paypal.me/uoziod/5) \(worldwide\) or [Bunq](https://bunq.me/uoziod/5) \(for Europe only\).
+If Patreon does not work for you for some reason, feel free to make one-time contribution  
+via [Paypal](https://paypal.me/uoziod/5) \(worldwide\),  
+or [Bunq](https://bunq.me/uoziod/5) \(for Europe only\).
 
 ## roboard \(rominimal dashboard\)
 
