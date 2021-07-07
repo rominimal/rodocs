@@ -32,14 +32,14 @@ _Red card_ gives member 1 month of "vacation".
 ### Bunches of tracks
 
 It is only allowed up to **10 tracks per bunch**!  
-The only exception is complete releases with more tracks, or tracks of the same artist.
+The only exceptions are complete releases with more tracks or tracks of the same artist.
 
 On exceeding random tracks upload limit member receives a penalty.  
 Red card gives member 1 month of "vacation".
 
 ### Quality of uploads
 
-When someone uploads [transcodes](audio-stuff/transcodes-and-spectral-analysis/#transcodes), [stretched files \(traxdb\)](group-stuff/how-to-fill-in-upload-with-correct-meta-data/labeling-uploads.md#stretched), [irrelevant music](https://romnml.rv7.ru/?irrelevant=true) \(what's not related to minimal/deep\), uploader suppose to label these files himself to avoid be fined \(this is possible to do via [roboard](https://roboard.rv7.ru/)\).
+When someone uploads [transcodes](audio-stuff/transcodes-and-spectral-analysis/#transcodes) or [irrelevant music](https://romnml.rv7.ru/?irrelevant=true) \(what's not related to minimal/deep\), uploader suppose to label these files himself to avoid be fined \(this is possible to do via [roboard](https://roboard.rv7.ru/)\).
 
 [Here](./#penalty-scale) you can find the penalty scale. 
 
@@ -67,7 +67,7 @@ If member announced an upload of a certain release he has 1 hour to upload it un
 
 ### Private trade requests
 
-Any call like "Contact me in private for trade" or "Contact me in private to get a proper version of the track" is a penalty. This is an exchange platform. Please do not go above this. Please leave if you're not agree.
+Any call like "Contact me in private for trade" or "Contact me in private to get a proper version of the track" is a penalty. This is an exchange platform. Please do not go around this. Please leave if you're not agree.
 
 ## Support the group 🙏
 
@@ -78,7 +78,7 @@ Your support is highly appreciated!
 Even $1 matters!
 
 If Patreon does not work for you for some reason, feel free to make one-time contribution  
-via [Paypal](https://paypal.me/uoziod/5) \(worldwide\) or [Bunq](https://bunq.me/uoziod/5) \(for Europe only\).
+via [Paypal](https://paypal.me/uoziod/5) \(worldwide\) or [Bunq](https://bunq.me/uoziod/5) \(Europe only\).
 
 ## roboard \(rominimal dashboard\)
 
