@@ -85,9 +85,9 @@ These files has premature ending. Might be they wasn't fully downloaded or there
 
 ### Manually added labels
 
-#### transcode
+#### bad transcode / transcode
 
-Please study [this article](https://bit.ly/2qyzphj) about bad transcodes. Of course such files are not welcome. If you spotted one – please label it. Transcodes are not participating in chatles circulation. When labeled not by uploader himself, uploader got [fined](../../#penalty-scale).
+Please study [this article](https://bit.ly/2qyzphj) about bad transcodes. Of course such files are not welcome. If you spotted one – please label it. Transcodes are not participating in chatles circulation. When bad transcodes are labeled not by uploader himself, uploader got [fined](../../#penalty-scale) \(regular transcodes do not give a fine\).
 
 #### stretched
 
