@@ -115,9 +115,11 @@ One successfully approved change gives you **0.1 chatles** \(effectively 10 succ
 
 ## Penalty scale
 
-Members whose balance is over 500 chatles **got fined** for 50 chatles for a track.  
-Members whose balance is over 100 chatles **got fined** for 10 chatles for a track.  
-Members whose balance is under 100 chatles **got fined** for 1 chatle for a track.
+The penalty amount depends on the current chatles amount.
+
+Members whose balance is over 500 chatles **got fined** for 50 chatles.  
+Members whose balance is over 100 chatles **got fined** for 10 chatles.  
+Members whose balance is under 100 chatles **got fined** for 1 chatle.
 
 ## Groups-satellites
 
