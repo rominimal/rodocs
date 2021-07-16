@@ -26,8 +26,8 @@ Speak only English and only when it's needed. [Use the chatroom if you feel chat
 
 _**Be nice or go away!**_
 
-Violation of general rules, gives member a penalty!  
-_Red card_ gives member 1 month of "vacation".
+Violation of general rules, gives member a penalty.  
+Three penalties \(green card, yellow card, red card\) give member 1 month of "vacation".
 
 ### Bunches of tracks
 
